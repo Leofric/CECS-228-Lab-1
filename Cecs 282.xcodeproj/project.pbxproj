@@ -239,6 +239,7 @@
 				CC44BC6B1D774C2800B670A8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
